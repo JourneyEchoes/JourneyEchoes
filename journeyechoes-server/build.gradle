@@ -50,7 +50,7 @@ tasks.named('test') {
 
 generateJava {
     schemaPaths = ["${projectDir}/src/main/resources/graphql-client"]
-    packageName = 'com.example.server.codegen'
+    packageName = 'com.example.journeyechoesserver.codegen'
     generateClient = true
 }
 
