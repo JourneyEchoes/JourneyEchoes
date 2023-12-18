@@ -8,6 +8,7 @@ class JourneyechoesServerApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("testContext");
     }
 
 }

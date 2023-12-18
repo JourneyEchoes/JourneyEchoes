@@ -20,7 +20,6 @@ Express yourself through blog posts. Share your thoughts, reflections, and exper
 
 Follow these steps to set up and run JourneyEchoes on your local machine.
 
-### Prerequisites
+# Spring Boot + Next.js Integration
 
-- Node.js installed
-- npm package manager
+This project demonstrates how to integrate a Spring Boot backend with a Next.js frontend.
